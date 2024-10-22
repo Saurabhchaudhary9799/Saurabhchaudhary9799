@@ -54,9 +54,9 @@
   <img src="./assets/Hacktoberfest2024/level2-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
   <img src="./assets/Hacktoberfest2024/level3-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
   <img src="./assets/Hacktoberfest2024/level4-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest2023/level0-red-code-0-0-0-0.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest2023/level1-red-code-0-0-0-0.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest2023/level2-red-code-0-0-0-0.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest2023/level3-red-code-0-0-0-0.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest2023/level4-red-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level0-red-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level1-red-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level2-red-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level3-red-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level4-red-0-0-0-0.webp" width="100px" height="100px" />
 </div>
