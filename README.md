@@ -45,5 +45,18 @@
   <img src="./assets/3.png" width="100px" height="100px" />
   <img src="./assets/4.png" width="100px" height="100px" />
   <img src="./assets/5.png" width="100px" height="100px" />
+</div>
 
+## Hacktoberfest Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="./assets/Hacktoberfest2024/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2024/level1-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2024/level2-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2024/level3-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2024/level4-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level0-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level1-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level2-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level3-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest2023/level4-sloth-code-0-0-0-0.webp" width="100px" height="100px" />
 </div>
