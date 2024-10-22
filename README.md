@@ -35,3 +35,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhchaudhary9799&show_icons=true&locale=en" alt="saurabhchaudhary9799" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhchaudhary9799&" alt="saurabhchaudhary9799" /></p>
+
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="./assets/PostmanWhite.png" width="100px" height="100px" />
+  <img src="./assets/1.png" width="100px" height="100px" />
+  <img src="./assets/2.png" width="100px" height="100px" />
+  <img src="./assets/3.png" width="100px" height="100px" />
+  <img src="./assets/4.png" width="100px" height="100px" />
+  <img src="./assets/5.png" width="100px" height="100px" />
+
+</div>
