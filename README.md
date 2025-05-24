@@ -8,13 +8,13 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <a href="https://twitter.com/saurabh_barakh" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh_barakh?logo=twitter&style=for-the-badge" alt="saurabh_barakh" /></a> </p>
 
-- 🔭 I’m currently working on **True Feedback Application**
+- 🔭 I’m currently working on **SurveyAgent.Ai**
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://saurbhkumar-portfolio.vercel.app/](https://saurbhkumar-portfolio.vercel.app/)
 
-- 💬 Ask me about **Next.js , Typescript**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **saurbhbailara@gmail.com**
 
